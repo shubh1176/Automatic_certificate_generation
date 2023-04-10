@@ -21,6 +21,7 @@ To use a different certificate template, replace the file named certificate_temp
 To change the font or size of the text, modify the values in the program where indicated.
 
 **Limitations**
+
 The program currently supports only one template and one font style and size.
 The program does not support batch printing of certificates.
 soon will be making the similar program using more advanced technologies
