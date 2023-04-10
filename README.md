@@ -3,10 +3,10 @@
 
 This is a Python program that generates certificates for participants of an event using data from a CSV file. The program reads the CSV file and retrieves the names of participants and the event name. It then uses a pre-designed certificate template and overlays the retrieved data onto the template to create personalized certificates.
 
-# Requirements
-Python >= 3.7 (I used 3.11)
-cv2 Library (pip install cv2)
-csv 
+""" Requirements
+  Python >= 3.7 (I used 3.11)
+  cv2 Library (pip install cv2)
+  csv """
 
 # Usage
 Create a CSV file named names.csv containing the participant names and the event name in the following format:
